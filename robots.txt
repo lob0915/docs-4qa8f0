@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jbrwuj.ajaib888isu.lat/sitemap.xml
